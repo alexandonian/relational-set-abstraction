@@ -7,7 +7,7 @@
 We provide a PyTorch implementation of our  semantic relational set abstraction model presented in:
 
 [We Have So Much In Common: Modeling Semantic Relational Set Abstractions in Videos](http://abstraction.csail.mit.edu)
-[Alex Andonian*](alexandonian.com), [Camilo Fosco*](https://cfosco.github.io/), [Mathew Monfort](http://people.csail.mit.edu/mmonfort/), [Allen Lee](https://allenjlee.github.io/), [Rogerio Feris](http://rogerioferis.com/), [Carl Vondrick](http://www.cs.columbia.edu/~vondrick/), [Aude Oliva](http://olivalab.mit.edu/audeoliva.html)
+[Alex Andonian*](https://www.alexandonian.com), [Camilo Fosco*](https://cfosco.github.io/), [Mathew Monfort](http://people.csail.mit.edu/mmonfort/), [Allen Lee](https://allenjlee.github.io/), [Rogerio Feris](http://rogerioferis.com/), [Carl Vondrick](http://www.cs.columbia.edu/~vondrick/), [Aude Oliva](http://olivalab.mit.edu/audeoliva.html)
 ECCV 2020
 
 ## Prerequisites
@@ -28,8 +28,8 @@ ECCV 2020
 - Clone this repo:
 
 ```bash
-git clone https://github.com/alexandonian/abstraction.git
-cd abstraction
+git clone https://github.com/alexandonian/relational-set-abstraction.git
+cd relational-set-abstraction
 ```
 
 - Create python virtual environment
